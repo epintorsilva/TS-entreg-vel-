@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/catkin_ws/vel/install/setup.sh
